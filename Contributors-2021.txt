@@ -13,6 +13,15 @@ Twitter profile url: https://twitter.com/anweshapl
 Country: India
 Bio: Student
 
+*Name: Mohammad Modassir Iqbal
+*Github username: MOHAMMADMODASSIR
+How many pull requests have you done here: 7
+
+LinekdIn profile url: https://www.linkedin.com/in/mohammad-modassir-iqbal-7141621b7/
+Twitter profile url: https://twitter.com/MdModassir11    
+
+Country: India
+Bio: Student
 
 *Name: Rajdeep Das
 *Github username: @Rajspeaks
